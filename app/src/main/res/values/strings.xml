@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zakat Wajib</string>
+    <string-array name="status">
+        <item>Wear</item>
+        <item>Keep</item>
+    </string-array>
+
+    <string name="About_text"><a href="https://www.youtube.com/">Source Code Link</a></string>
+    <string name="developer1">NAME: NUR IZZATY BINTI MOHD RIDZUAN</string>
+    <string name="devId1">STUDENT ID: 2020827768</string>
+    <string name="group">GROUP: RCS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+    <string name="copyright">Copyright©ZakatAdalahFardhuAin</string>
+
+
+</resources>
